@@ -3,3 +3,4 @@ node_modules
 packages
 dist/package-lock.json
 src/package-lock.json
+dist/credentials.py
